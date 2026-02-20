@@ -22,8 +22,8 @@
 ### 2. Скопируйте файлы на свой компьютер
 Если вы получили этот проект как репозиторий, склонируйте его:
 ```bash
-git clone <ссылка-на-ваш-репозиторий>
-cd <название-папки>
+git clone https://github.com/DenUP/my-pocketbase-docker-matule
+cd my-pocketbase-docker-matule
 ```
 Если вы скачали архив, распакуйте его в удобную папку (например, C:\MyProject).
 
