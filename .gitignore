@@ -1,0 +1,3 @@
+pocketbase_data/
+*.db
+*.log
